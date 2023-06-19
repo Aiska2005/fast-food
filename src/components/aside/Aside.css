@@ -1,0 +1,50 @@
+.btnAboutMe:hover {
+  opacity: 60%;
+  transition: 0.5s;
+}
+
+.hr {
+  background-size: cover;
+  height: 1px;
+  background: rgba(0, 0, 0, 0.329);
+  flex-shrink: 0;
+}
+
+.blockSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 44px;
+}
+
+.information {
+  display: flex;
+  column-gap: 40px;
+}
+
+.liBlock li :hover {
+  color: red;
+}
+
+.liBlock li {
+  display: flex;
+  flex-direction: column;
+  color: black !important;
+  padding-top: 15px;
+}
+
+.itemli {
+  color: red;
+}
+
+.logoSection {
+  width: 50px;
+  padding-bottom: 20px;
+}
+
+.blockImgCardVisa {
+  /* padding-left: 400px; */
+  display: flex;
+  align-items: center;
+  padding-bottom: 200px;
+}

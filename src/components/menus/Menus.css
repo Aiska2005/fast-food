@@ -1,0 +1,28 @@
+.control-menus-slide-contents {
+    display: flex;
+    column-gap: 20px;
+    padding: 30px 0;
+}
+
+.control-menus-slide {
+    position: relative;
+    flex-shrink: 0;
+    padding-top: 10px;
+}
+
+.control-menus-slide-position-stycky {
+    padding: 70px 0;
+    width: 300px;
+    height: 800px;
+    background: white;
+    box-shadow: 0px 0px 11px -5px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 0px 0px 11px -5px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 11px -5px rgba(0, 0, 0, 0.75);
+    position: sticky;
+    top: 80px;
+    z-index: 20;
+}
+
+.control-menus-contents {
+    width: 1000px;
+}

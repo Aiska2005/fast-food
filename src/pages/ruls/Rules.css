@@ -1,0 +1,17 @@
+.blockRules {
+  border-radius: 15px;
+  margin-top: 20px;
+  background-color: #f0f0f0;
+  box-shadow: -15px -15px 15px rgba(225, 225, 225, 0.2),
+    15px 15px 15px rgba(225, 225, 225, 0.1),
+    inset -5px -5px 5px rgba(225, 225, 225, 0.2),
+    inset 5px 5px 5px rgba(0, 0, 0, 0.1);
+}
+.rules-text {
+  padding-left: 90px;
+  width: 1000px;
+  display: flex;
+  flex-direction: row;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}

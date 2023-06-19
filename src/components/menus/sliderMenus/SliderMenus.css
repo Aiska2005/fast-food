@@ -1,0 +1,26 @@
+.menu-slide-control {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+    row-gap: 30px;
+    padding: 10px 60px;
+}
+
+.control-menu-loner {
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.control-menu-loner a {
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #2f322c;
+}
+
+.img-slider-menu {
+    font-size: 20px;
+    border-radius: 100%;
+}

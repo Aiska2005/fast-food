@@ -1,0 +1,31 @@
+.control-card {
+    width: 200px;
+    height: 350px;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0px 0px 21px -10px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 0px 0px 21px -10px rgba(0, 0, 0, 0.35);
+    -moz-box-shadow: 0px 0px 21px -10px rgba(0, 0, 0, 0.35);
+}
+
+.img-products {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px 10px 0 0;
+}
+
+.title-name-dsc-cards {
+    width: 200px;
+    height: 100px;
+    padding: 0 5px;
+}
+
+.price-cards {
+    width: 180px;
+    height: 30px;
+    background: #E4002B;
+    border-radius: 10px;
+    margin-left: 10px;
+    color: white;
+    font-weight: 600
+}
